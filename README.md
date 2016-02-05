@@ -9,8 +9,8 @@ The Material Toggle Switch for Qlikview is a straight forward toggle switch styl
   1. Small
   2. Medium
   3. Large
+  
 ![GitHub Logo](/images/smallMediumLarge.gif)
-Format: ![Alt Text](url)
 
 ##Colors
 
