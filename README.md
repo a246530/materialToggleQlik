@@ -1,3 +1,2 @@
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# materialToggleQlik
+### Toggle made easy and flexible
