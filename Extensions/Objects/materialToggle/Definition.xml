@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExtensionObject  Path="materialToggle" 
+                  Label="materialToggle" 
+                  Description="materialToggle will make a toggle switch for a variable" 
+                  Type="object">
+<Text Label="VariableName" Type="text" Initial="" Expression=""/>
+<Text Label="Size" Type="select"  Initial="large"  Select="Large,Medium,Small" SelectLabel="Large,Medium,Small" /> 
+<Text Label="Color" Type="select"  Initial="teal"  Select="teal,indigo,red,pink,purple,deepPurple,blue,lightBlue,cyan,green,lightGreen,lime,yellow,amber,orange,deepOrange,brown,blueGrey" SelectLabel="teal,indigo,red,pink,purple,deepPurple,blue,lightBlue,cyan,green,lightGreen,lime,yellow,amber,orange,deepOrange,brown,blueGrey" /> 
+<Text Label="Text" Type="text" Initial="" Expression=""/>
+
+<Initiate Name="Layout.Border.Use" Value="0" />
+</ExtensionObject>
