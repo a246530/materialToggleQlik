@@ -5,12 +5,14 @@ The Material Toggle Switch for Qlikview is a straight forward toggle switch styl
 
 
 ##Sizes
-The Material Toggle Switch comes in three different sizes:
+The Material Toggle Switch comes in three different sizes
+
 ![SmallMediumLargeToggles](/images/smallMediumLarge.gif)
 
 
 ##Colors
-The Material Toggle Switch comes in 17 different Colors:
+The Material Toggle Switch comes in 17 different Colors
+
 ![ToggleColors](/images/colors.PNG)
 
 
