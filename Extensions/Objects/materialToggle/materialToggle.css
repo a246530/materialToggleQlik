@@ -2,6 +2,7 @@
 h2, h3, h4 {
 	font-family: 'Roboto', sans-serif;
 	font-weight:500;
+	color:#333333;
 }
 
 .onoffswitch.small {
@@ -161,14 +162,14 @@ h2, h3, h4 {
 }
 /*blue*/
 .onoffswitch-checkbox.blue:checked  + .onoffswitch-label.blue {
-    background-color: #90CAF9;
+    background-color: #64B5F6;
 }
 .onoffswitch-checkbox.blue:checked + .onoffswitch-label.blue, .onoffswitch-checkbox.blue:checked + .onoffswitch-label.blue:before {
-   border-color: #90CAF9;
+   border-color: #64B5F6;
 }
 .onoffswitch-checkbox.blue:checked + .onoffswitch-label.blue:before{
     right: 0px; 
-    background-color: #2196F3; 
+    background-color: #1565C0; 
     box-shadow: 3px 6px 18px 0px rgba(0, 0, 0, 0.2);
 }
 /*lightBlue*/
