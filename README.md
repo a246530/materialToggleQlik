@@ -7,6 +7,7 @@ The Material Toggle Switch for Qlikview is a straight forward toggle switch styl
 
 ##Attributes
 Material Toggle Switch offers the ability to change:
+
 1. The Variable you are toggling
 2. The size of the object
 3. The color of the object
