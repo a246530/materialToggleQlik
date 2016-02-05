@@ -29,8 +29,8 @@ The Material Toggle Switch comes in 17 different Colors
 
 ##Setup
 
-*Drag the materialToggle folder and put it into your extensions folder on either you local machine or on your accesspoint. 
-*Next you can add the extension to your Qlikview project (make sure you are in web view so that you can add the extension object).
-*Customize and you are done!
+Drag the materialToggle folder and put it into your extensions folder on either you local machine or on your accesspoint. 
+Next you can add the extension to your Qlikview project (make sure you are in web view so that you can add the extension object).
+Customize and you are done!
 
 #####You may need to change the qva.loadcss to the commented out one when working with the extension on access point*
