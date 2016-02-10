@@ -1,10 +1,8 @@
+
+var template_path = Qva.Remote + "?public=only&name=Extensions/materialToggle/";
+Qva.LoadCSS(template_path + "materialToggle.css");
 Qv.AddExtension("materialToggle",
         function () {
-		 //Css call for loading via accesspoint
-		 //Qva.LoadCSS(Qva.Remote + (Qva.Remote.indexOf('?') >= 0 ? '&' : '?') + 'public=only' + '&name=Extensions/materialToggle/materialToggle.css');
-		 
-		 //Local CSS load
-		 Qva.LoadCSS('Extensions/materialToggle/materialToggle.css');
 		 var _this = this;
 		 var html="";
 		 var size=this.Layout.Text1.text ? this.Layout.Text1.text : 'large';
