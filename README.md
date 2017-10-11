@@ -1,11 +1,11 @@
 # materialToggleQlik
-####Toggle made easy and flexible
+### Toggle made easy and flexible
 
 The Material Toggle Switch for Qlikview is a straight forward toggle switch styled with material design colors and patterns. Its purpose is one thing: Change a value for a variable in Qlikview.
 
 
 
-##Attributes
+### Attributes
 Material Toggle Switch offers the ability to change:
 
 1. The Variable you are toggling
@@ -16,21 +16,21 @@ Material Toggle Switch offers the ability to change:
 ![template](/images/template.PNG)
 
 
-##Sizes
+### Sizes
 The Material Toggle Switch comes in three different sizes
 
 ![SmallMediumLargeToggles](/images/smallMediumLarge.gif)
 
 
-##Colors
+### Colors
 The Material Toggle Switch comes in 17 different Colors
 
 ![ToggleColors](/images/colors.PNG)
 
-##Setup
+### Setup
 
 Drag the materialToggle folder and put it into your extensions folder on either you local machine or on your accesspoint. 
 Next you can add the extension to your Qlikview project (make sure you are in web view so that you can add the extension object).
 Customize and you are done!
 
-#####You may need to change the qva.loadcss to the commented out one when working with the extension on access point*
+##### You may need to change the qva.loadcss to the commented out one when working with the extension on access point*
